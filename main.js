@@ -1,5 +1,3 @@
-
-
 function loadJSON(file){
   return new Promise((resolve,reject)=>{
 return fetch(file).then(response=>{
@@ -20,7 +18,10 @@ fetchedData.then(data=>{
 
   var child2=document.querySelector("#child2");
   function career(car){
-    var p=document.createElement("p");
+    var heading=document.createElement("h2");
+    heading.textContent="Career Objevtive";
+    child2.appendChild(heading);
+      var p=document.createElement("p");
     p.textContent=car.info;
     child2.appendChild(p);
 
