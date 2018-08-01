@@ -46,5 +46,17 @@
       "title":"Operating System",
       "set":["Windows","DOS","Linux","unix"]
     }
-    ]
+  ],
+  "achievements":[
+    {
+      "achievedData":"Got Frist Prize in PPT presentstion."
+    },
+      {
+        "achievedData":"Got Frist Prize in Adzup event."
+      },
+      {
+        "achievedData":"Got Frist Prize in Treasure hunt ."
+      }
+  ]
+
 }
