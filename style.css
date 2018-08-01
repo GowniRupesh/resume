@@ -107,7 +107,7 @@ img{
     }
 
   .leftChild{
-      width: 50%;
+      width: 92%;
       border: 2px solid #000;
       padding:2%;
       margin:2%;
@@ -115,7 +115,7 @@ img{
 
     }
     .rightChild{
-      width: 50%;
+      width: 92%;
       border: 2px solid #000;
       padding:2%;
       margin:2%;
