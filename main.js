@@ -83,6 +83,7 @@ function achievements(achievement) {
   var list=document.createElement("li");
   child2.appendChild(list);
   var i=0;
+  var listItem="";
   while (i<achievement.length) {
     var listItem=document.createElement("li");
     listItem.textContent=achievement[i].achievedData;
