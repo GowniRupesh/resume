@@ -81,7 +81,7 @@ function achievement(achievement) {
   var hLine=document.createElement("hr");
   child2.appendChild(hLine);
   var list=document.createElement("li");
-  child2.appendChild(list)
+  child2.appendChild(list);
 
   var listItem="";
   for(var i=0;i<achievement.length;i++) {
