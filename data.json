@@ -1,8 +1,8 @@
 {
   "career":{
   "info":  "To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
-},
-  "educatin":[
+    },
+  "education":[
     {
     "degree":"Master of computer application",
     "institute":"Siddhath institute of engineering & technology",
@@ -23,5 +23,28 @@
   "institute":"Vasishtha Vidhyalaya",
   "data":["2010-11","66"]
   }
-  ]
+],
+  "skills" :
+  [
+    {
+      "title":"Programing Languages",
+      "set":["java","c","c#","python"]
+    },
+    {
+      "title":"Web technologys",
+      "set":["HTML","CSS","PHP","javascript"]
+    },
+    {
+      "title":"Dta Bases",
+      "set":["Sql","mySql","Oracle","NoSql"]
+    },
+    {
+      "title":"Programing Languages",
+      "set":["java","c","c#","python"]
+    },
+    {
+      "title":"Operating System",
+      "set":["Windows","DOS","Linux","unix"]
+    }
+    ]
 }

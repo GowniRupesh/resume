@@ -123,3 +123,6 @@ img{
     }
 
   }
+  tr:nth-child(even){
+    background: #ddd;
+  }
