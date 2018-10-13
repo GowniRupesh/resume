@@ -6,42 +6,39 @@
     {
     "degree":"Master of computer application",
     "institute":"Siddhath institute of engineering & technology",
-    "data":["2016-19","81"]
+    "data":["2016-19","77"]
   },
     {
     "degree":"Bsc(electronics)",
     "institute":"Sri Surya Degree college",
-    "data":["2013-16","66"]
+    "data":["2013-16","70.1"]
   },
     {
     "degree":"Intermediate(MPC)",
     "institute":"Sri Surya junior college",
-    "data":["2011-13","68"]
+    "data":["2011-13","60"]
   },
   {
   "degree":"S.S.C",
   "institute":"Vasishtha Vidhyalaya",
-  "data":["2010-11","66"]
+  "data":["2010-11","74.4"]
   }
 ],
   "skills" :
   [
     {
       "title":"Programing Languages",
-      "set":["java","c","c#","python"]
+      "set":["java","c"]
     },
     {
       "title":"Web technologys",
-      "set":["HTML","CSS","PHP","javascript"]
+      "set":["HTML","CSS","javascript"]
     },
     {
       "title":"Dta Bases",
       "set":["Sql","mySql","Oracle","NoSql"]
     },
-    {
-      "title":"Programing Languages",
-      "set":["java","c","c#","python"]
-    },
+    
     {
       "title":"Operating System",
       "set":["Windows","DOS","Linux","unix"]
